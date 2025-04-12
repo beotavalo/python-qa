@@ -1,5 +1,5 @@
 # python-qa
-A control quality to deliver clean code for small python projects with pre-commit.
+A control quality to deliver clean code for small python projects with [pre-commit](https://pre-commit.com/#intro).
 
 1. Install quality control tools in [requeriments-dev.txt](https://github.com/beotavalo/python-qa/blob/main/requirements-dev.txt)
    ```python
