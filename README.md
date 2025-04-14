@@ -20,3 +20,5 @@ A control quality to deliver clean code for small python projects with [pre-comm
     ```
 5. Once pre-commit is configured will run automaticaly all quality control test test [hooks] and  will not permit to run ```git commit -m 'mesage'``` if you not correct all errors and warnings. When you correct a script file. You should save changes and run again ```git add .``` and ```git commit -m 'mesage'```.
 
+## References:
+- [Simplify your Python Code: Automating Code Complexity Analysis with Wily](https://towardsdatascience.com/simplify-your-python-code-automating-code-complexity-analysis-with-wily-5c1e90c9a485/)
