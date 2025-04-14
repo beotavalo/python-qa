@@ -9,12 +9,12 @@ A control quality to deliver clean code for small python projects with [pre-comm
 3. Install the git hook scripts to set up the git hook scripts
 
    ```bash
-   pre-commit install 
+   pre-commit install
    ```
 4.  (optional) Run against all the files
 
     It's usually a good idea to run the hooks against all of the files when adding new hooks (usually pre-commit will only run on the changed files during git hooks) and check if the new hooks is working
-    
+
     ```bash
     pre-commit run --all-files
     ```

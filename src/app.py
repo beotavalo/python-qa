@@ -1,8 +1,8 @@
-import numpy as np
-from scipy import signal as sp
 import matplotlib.pylab as plt
+import numpy as np
 import scipy.signal as signal
 import streamlit as st
+from scipy import signal as sp
 
 
 def u(amplitud, t):

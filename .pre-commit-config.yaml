@@ -19,7 +19,7 @@ repos:
       - id: ruff
         args:
           [
-          "--select", "E,F,N,B",     # E: pycodestyle (style), F: pyflakes (logical errors), N: pep8-naming, B: flake8-bugbear (common bugs)
+          "--select", "E,F,N,B,I",     # E: pycodestyle (style), F: pyflakes (logical errors), N: pep8-naming, B: flake8-bugbear (common bugs), I: Order import files
           "--fix",                  # Auto-fix issues where possible
           "--show-fixes"            # Show which fixes are applied
          ]
