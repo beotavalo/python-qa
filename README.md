@@ -23,3 +23,4 @@ A control quality to deliver clean code for small python projects with [pre-comm
 ## References:
 - [Simplify your Python Code: Automating Code Complexity Analysis with Wily](https://towardsdatascience.com/simplify-your-python-code-automating-code-complexity-analysis-with-wily-5c1e90c9a485/)
 - [Effortless Code Quality: Ultimate Pre-Commit Hooks Guide for 2025](https://gatlenculp.medium.com/effortless-code-quality-the-ultimate-pre-commit-hooks-guide-for-2025-57ca501d9835)
+- [The Power of Pre-Commit for Python Developers: Tips and Best Practices ](https://dev.to/techishdeep/maximize-your-python-efficiency-with-pre-commit-a-complete-but-concise-guide-39a5)
